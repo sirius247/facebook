@@ -1,0 +1,9 @@
+Package: com.sirius247.facebook
+Name: FaceBook
+Depends: firmware (>= 5.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An FaceBook widget for the notification center!
+Maintainer: Sean Caissie
+Author: Sean Caissie
+Section: Widgets
